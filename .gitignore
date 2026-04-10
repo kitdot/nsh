@@ -1,0 +1,16 @@
+# Binary
+nsh
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Test / build artifacts
+*.test
+*.out
+/dist/
+.gocache/
